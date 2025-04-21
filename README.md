@@ -38,13 +38,6 @@ npm install
 ```bash
 npm run dev
 ```
-
----
-## Tech Stack
-#### React
-#### JavaScript
-#### Tailwind CSS
-
 ---
 ## FeedBack
 If you have any feedback, please reach out to me at nitin141020@gmail.com
