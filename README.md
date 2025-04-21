@@ -28,6 +28,29 @@ A clean and minimal Todo application built with **React**, **Vite**, and **Tailw
 ```bash
 git clone https://github.com/nitxoroo/Todo-APP.git
 cd Todo-APP
+```
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3. Start the Dev Server
+```bash
+npm run dev
+```
+
+---
+## Tech Stack
+#### React
+#### JavaScript
+#### Tailwind CSS
+
+---
+## FeedBack
+If you have any feedback, please reach out to me at nitin141020@gmail.com
+
+
+
 
 
 
